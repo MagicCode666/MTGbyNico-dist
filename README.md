@@ -5,6 +5,8 @@ Gestionnaire de collection **Magic: The Gathering** pour Windows — gratuit, l�
 ![Release](https://img.shields.io/github/v/release/MagicCode666/MTGbyNico-dist)
 ![Downloads](https://img.shields.io/github/downloads/MagicCode666/MTGbyNico-dist/total)
 
+![Aperçu de MTG by Nico](screenshot.jpg)
+
 ## Installer
 
 1. Récupère `MTGbyNicoSetup.exe` depuis les [Releases](https://github.com/MagicCode666/MTGbyNico-dist/releases/latest)
